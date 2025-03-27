@@ -12,4 +12,4 @@ conf/config.json  - global definitions
 Mare sure footpring and value of component in the feeders matching your pos file from kikad!
 
 Cheers,
-Fedor Commnander
+Fedor Commander
